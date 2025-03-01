@@ -48,9 +48,13 @@ python index-cli.py
 - Analyzes and comments on files using OpenAI.
 - Saves the processed files in `draft-review`.
 
+
 🎥 **Demo:**
 
-[![Demo Video](https://img.youtube.com/vi/ZR22YykT-6I/0.jpg)](https://www.youtube.com/watch?v=ZR22YykT-6I)
+<a href="https://www.youtube.com/watch?v=ZR22YykT-6I" target="_blank">
+  <img src="https://img.youtube.com/vi/ZR22YykT-6I/0.jpg" alt="Demo Video">
+</a>
+
 
 
 
@@ -64,8 +68,10 @@ streamlit run index-gui.py
 - Click "Start Processing" to analyze and comment on code.
 - Optionally restore reviewed files to their original location.
 
-🎥 **Demo:** [![Demo Video](https://img.youtube.com/vi/GiqHGni9f3w/0.jpg)](https://www.youtube.com/watch?v=GiqHGni9f3w)
-
+🎥 **Demo:** 
+<a href="https://www.youtube.com/watch?v=GiqHGni9f3w" target="_blank">
+  <img src="https://img.youtube.com/vi/GiqHGni9f3w/0.jpg" alt="Demo Video">
+</a>
 
 
 ### 3️⃣ Cloud Mode (`streamlit_app.py`)
@@ -78,8 +84,9 @@ This version is deployed on **Streamlit Cloud**.
 🌍 **Access the Cloud Version:** [AI-Powered Code Summarizer](https://intelligent-codereviewer-documenter.streamlit.app/)
 
 🎥 **Demo:**
-
-[![Demo Video](https://img.youtube.com/vi/5gnbfNRNN8o/0.jpg)](https://www.youtube.com/watch?v=5gnbfNRNN8o)
+<a href="https://www.youtube.com/watch?v=5gnbfNRNN8o" target="_blank">
+  <img src="https://img.youtube.com/vi/5gnbfNRNN8o/0.jpg" alt="Demo Video">
+</a>
 
 
 
