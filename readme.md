@@ -81,7 +81,7 @@ This version is deployed on **Streamlit Cloud**.
 - 🔄 Compare original and modified code side-by-side.
 - 📥 Download the modified file for further use.
 
-🌍 **Access the Cloud Version:** [AI-Powered Code Summarizer](https://intelligent-codereviewer-documenter.streamlit.app/)
+🌍 **Access the Cloud Version:** [AI-Powered Code Summarizer](https://intelligent-ai-codereviewer-documenter.streamlit.app/)
 
 🎥 **Demo:**
 <a href="https://www.youtube.com/watch?v=5gnbfNRNN8o" target="_blank">
