@@ -1,0 +1,17 @@
+{
+  "name": "ai-powered-reviewer-documentor",
+  "version": "1.0.0",
+  "description": "Intelligent code reviewer and documenter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Python",
+    "OpenAI",
+    "API",
+    "LangChain"
+  ],
+  "author": "",
+  "license": "ISC"
+}
