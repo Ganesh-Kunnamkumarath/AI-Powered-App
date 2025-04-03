@@ -51,8 +51,8 @@ python index-cli.py
 
 🎥 **Demo:**
 
-<a href="https://www.youtube.com/watch?v=ZR22YykT-6I" target="_blank">
-  <img src="https://img.youtube.com/vi/ZR22YykT-6I/0.jpg" alt="Demo Video">
+<a href="https://www.youtube.com/watch?v=bp1F5jUyRLY" target="_blank">
+  <img src="https://img.youtube.com/vi/bp1F5jUyRLY/0.jpg" alt="Demo Video">
 </a>
 
 
@@ -69,8 +69,8 @@ streamlit run index-gui.py
 - Optionally restore reviewed files to their original location.
 
 🎥 **Demo:** 
-<a href="https://www.youtube.com/watch?v=GiqHGni9f3w" target="_blank">
-  <img src="https://img.youtube.com/vi/GiqHGni9f3w/0.jpg" alt="Demo Video">
+<a href="https://www.youtube.com/watch?v=JFW8f8z8HdQ" target="_blank">
+  <img src="https://img.youtube.com/vi/JFW8f8z8HdQ/0.jpg" alt="Demo Video">
 </a>
 
 
@@ -84,8 +84,8 @@ This version is deployed on **Streamlit Cloud**.
 🌍 **Access the Cloud Version:** [AI-Powered Code Summarizer](https://intelligent-ai-codereviewer-documenter.streamlit.app/)
 
 🎥 **Demo:**
-<a href="https://www.youtube.com/watch?v=5gnbfNRNN8o" target="_blank">
-  <img src="https://img.youtube.com/vi/5gnbfNRNN8o/0.jpg" alt="Demo Video">
+<a href="https://www.youtube.com/watch?v=BPYolx0a-14" target="_blank">
+  <img src="https://img.youtube.com/vi/BPYolx0a-14/0.jpg" alt="Demo Video">
 </a>
 
 
